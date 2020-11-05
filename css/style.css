@@ -1,0 +1,77 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.page-wrapper{
+
+	margin-right: calc(20% / 2);
+	margin-left: calc(20% / 2);
+	box-sizing: content-box;
+}
+h1{
+	font-style: 30px
+	background-color: gray;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	border: 10px;
+	border-color: black;
+	font-family: "Roboto"
+	}	
+
+h2{	
+	margin-top: 20px;
+	font-style: 28px;
+	text-align: center;
+	font-family: "Roboto"
+
+
+}
+h3{	
+	font-size: 25px;
+	margin-top: 20px;
+	font-family: "Roboto";
+	margin-bottom: 20px;
+
+}
+
+body{
+	background-color: rgba(255, 255, 255, 0.692);
+	image-rendering: auto;
+}
+p{	
+
+	font-size: 23px;
+	text-align: justify;
+}
+
+.sidebar .design-selection ul a{
+	text-decoration: none;
+	color: black;
+
+
+}
+body{
+	background-image: url('fundo-branco-textura-elegante_23-2148445782.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+abbr{
+	text-decoration: none;
+}
+ul{
+	list-style-type: square;
+	list-style-position: inside;
+
+}
+
+ul li{
+	font-size: 20px;
+}
